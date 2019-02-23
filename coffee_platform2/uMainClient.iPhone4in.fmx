@@ -1,0 +1,95 @@
+inherited FrmMainClient_iPhone4in: TFrmMainClient_iPhone4in
+  ClientHeight = 548
+  ClientWidth = 320
+  DesignerMasterStyle = 0
+  inherited TabControl1: TTabControl
+    Size.Width = 320.000000000000000000
+    Size.Height = 548.000000000000000000
+    TabHeight = 49.000000000000000000
+    Sizes = (
+      320s
+      499s
+      320s
+      499s
+      320s
+      499s)
+    inherited TabItem1: TTabItem
+      Size.Width = 106.000000000000000000
+      Size.Height = 49.000000000000000000
+      ExplicitSize.cx = 69.000000000000000000
+      ExplicitSize.cy = 26.000000000000000000
+      inherited ToolBar1: TToolBar
+        Size.Width = 320.000000000000000000
+        Size.Height = 44.000000000000000000
+      end
+      inherited Layout1: TLayout
+        Position.Y = 44.000000000000000000
+        Size.Width = 320.000000000000000000
+        inherited Panel1: TPanel
+          Size.Width = 320.000000000000000000
+        end
+      end
+      inherited Layout2: TLayout
+        Position.Y = 117.000000000000000000
+        Size.Width = 320.000000000000000000
+      end
+      inherited Layout3: TLayout
+        Size.Width = 320.000000000000000000
+        Size.Height = 158.000000000000000000
+      end
+    end
+    inherited TabItem2: TTabItem
+      Size.Width = 106.000000000000000000
+      Size.Height = 49.000000000000000000
+      ExplicitSize.cx = 160.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+      inherited ToolBar2: TToolBar
+        Size.Width = 320.000000000000000000
+        Size.Height = 44.000000000000000000
+        inherited SpeedButton1: TSpeedButton
+          Position.Y = 8.000000000000000000
+          Size.Height = 44.000000000000000000
+        end
+      end
+      inherited TabControl2: TTabControl
+        Size.Width = 320.000000000000000000
+        Size.Height = 455.000000000000000000
+        Sizes = (
+          320s
+          441s
+          320s
+          441s)
+        inherited TabItemResv: TTabItem
+          Size.Width = 160.000000000000000000
+          Size.Height = 14.000000000000000000
+          ExplicitSize.cx = 200.000000000000000000
+          ExplicitSize.cy = 49.000000000000000000
+        end
+        inherited TabItemResvDetail: TTabItem
+          Size.Width = 160.000000000000000000
+          Size.Height = 14.000000000000000000
+          ExplicitSize.cx = 160.000000000000000000
+          ExplicitSize.cy = 49.000000000000000000
+        end
+      end
+    end
+    inherited TabItem3: TTabItem
+      Size.Width = 108.000000000000000000
+      Size.Height = 49.000000000000000000
+      ExplicitSize.cx = 108.000000000000000000
+      ExplicitSize.cy = 49.000000000000000000
+      inherited ToolBar3: TToolBar
+        Size.Width = 320.000000000000000000
+        Size.Height = 44.000000000000000000
+      end
+      inherited NotiListView: TListView
+        Size.Width = 320.000000000000000000
+        Size.Height = 455.000000000000000000
+      end
+      inherited ListView1: TListView
+        Size.Width = 320.000000000000000000
+        Size.Height = 455.000000000000000000
+      end
+    end
+  end
+end

@@ -1,0 +1,60 @@
+﻿<Project xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+    <PropertyGroup>
+        <ProjectGuid>{4251E376-4A21-496A-A27A-AC3B4BB2F0FD}</ProjectGuid>
+    </PropertyGroup>
+    <ItemGroup>
+        <Projects Include="ProjectServer.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ProjectAdmin.dproj">
+            <Dependencies/>
+        </Projects>
+        <Projects Include="ProjectClient.dproj">
+            <Dependencies/>
+        </Projects>
+    </ItemGroup>
+    <ProjectExtensions>
+        <Borland.Personality>Default.Personality.12</Borland.Personality>
+        <Borland.ProjectType/>
+        <BorlandProject>
+            <Default.Personality/>
+        </BorlandProject>
+    </ProjectExtensions>
+    <Target Name="ProjectServer">
+        <MSBuild Projects="ProjectServer.dproj"/>
+    </Target>
+    <Target Name="ProjectServer:Clean">
+        <MSBuild Projects="ProjectServer.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ProjectServer:Make">
+        <MSBuild Projects="ProjectServer.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ProjectAdmin">
+        <MSBuild Projects="ProjectAdmin.dproj"/>
+    </Target>
+    <Target Name="ProjectAdmin:Clean">
+        <MSBuild Projects="ProjectAdmin.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ProjectAdmin:Make">
+        <MSBuild Projects="ProjectAdmin.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="ProjectClient">
+        <MSBuild Projects="ProjectClient.dproj"/>
+    </Target>
+    <Target Name="ProjectClient:Clean">
+        <MSBuild Projects="ProjectClient.dproj" Targets="Clean"/>
+    </Target>
+    <Target Name="ProjectClient:Make">
+        <MSBuild Projects="ProjectClient.dproj" Targets="Make"/>
+    </Target>
+    <Target Name="Build">
+        <CallTarget Targets="ProjectServer;ProjectAdmin;ProjectClient"/>
+    </Target>
+    <Target Name="Clean">
+        <CallTarget Targets="ProjectServer:Clean;ProjectAdmin:Clean;ProjectClient:Clean"/>
+    </Target>
+    <Target Name="Make">
+        <CallTarget Targets="ProjectServer:Make;ProjectAdmin:Make;ProjectClient:Make"/>
+    </Target>
+    <Import Project="$(BDS)\Bin\CodeGear.Group.Targets" Condition="Exists('$(BDS)\Bin\CodeGear.Group.Targets')"/>
+</Project>

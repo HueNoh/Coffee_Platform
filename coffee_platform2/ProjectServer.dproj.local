@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.501,C:\Users\gaish\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uMainServer.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.281,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.824,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.605,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.003,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.501,C:\Users\gaish\Documents\Embarcadero\Studio\Projects\Unit1.dfm=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uMainServer.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.581,C:\Users\gaish\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.dfm=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\ServerMethodsUnit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.427,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.804,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.736,C:\Users\gaish\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\ServerContainerUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.736,C:\Users\gaish\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.dfm=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\ServerContainerUnit1.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.005,C:\Users\gaish\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\ProjectServer.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.371,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.952,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.664,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.581,C:\Users\gaish\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.593,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.761,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+  </Transactions>
+</BorlandProject>

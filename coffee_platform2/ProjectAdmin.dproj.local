@@ -1,0 +1,70 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.759,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit2.pas=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\dmAdmin.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.264,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit2.pas=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uAdminSelProd.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.216,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit2.pas=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uMgmtUsers.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.095,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit2.pas=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uRegResv.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.220,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit2.pas=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uRegNotify.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.510,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit2.pas=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uAdminStoreInfo.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.879,=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.894,=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.480,=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.597,=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.838,=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.513,=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.664,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.605,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\ServerMethodsUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.759,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uAdminStoreInfo.dfm=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uStoreInfo.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.633,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uSelProd.dfm=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uAdminSelProd.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.427,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\FormUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.633,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uSelProd.pas=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uAdminSelProd.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.586,=C:\Users\gaish\Desktop\델파이교육\3차_과제_도서대여프로그램\도서대여프로그램\Source\CommonFunctions.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.049,C:\Users\gaish\Desktop\델파이교육\3차_과제_도서대여프로그램\도서대여프로그램\Source\CommonFunctions.pas=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\CommonFunctions.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.759,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uAdminStoreInfo.pas=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uStoreInfo.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.068,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uMainAdmin.dfm=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\Unit2.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.443,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uSelProd.pas=</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.759,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit2.dfm=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\dmAdmin.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.216,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit2.dfm=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uMgmtUsers.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.510,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit2.dfm=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uAdminStoreInfo.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.220,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit2.dfm=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uRegNotify.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.264,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit2.dfm=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uAdminSelProd.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.095,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit2.dfm=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uRegResv.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.485,=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit5.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.350,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit4.dfm=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uSignInAdmin.dfm</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.616,=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.622,=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit4.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.350,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit4.pas=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uSignInAdmin.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.804,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\WebModuleUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.068,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uMainAdmin.pas=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.761,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\ServerContainerUnit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.281,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.824,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.827,=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit2.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.371,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\Unit3.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.965,=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Ucheckgrid.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.476,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\ProjectAdmin.dproj=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.604,C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit1.pas=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\uAdminClass.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.300,=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\Unit1.pas</Transaction>
+    <Transaction>1899-12-30 00:00:00.000.466,=C:\Users\gaish\Documents\Embarcadero\Studio\Projects\Unit2.pas</Transaction>
+  </Transactions>
+	<ProjectSortOrder AutoSort="0" SortType="0">
+    <File Path="uMainAdmin.pas"/>
+    <File Path="uMainAdmin.dfm"/>
+    <File Path="uSignInAdmin.pas"/>
+    <File Path="uSignInAdmin.dfm"/>
+    <File Path="dmAdmin.pas"/>
+    <File Path="dmAdmin.dfm"/>
+    <File Path="uAdminClass.pas"/>
+    <File Path="uStoreInfo.pas"/>
+    <File Path="uStoreInfo.dfm"/>
+    <File Path="uRegResv.pas"/>
+    <File Path="uRegResv.dfm"/>
+    <File Path="uRegNotify.pas"/>
+    <File Path="uRegNotify.dfm"/>
+    <File Path="uMgmtUsers.pas"/>
+    <File Path="uMgmtUsers.dfm"/>
+    <File Path="CommonFunctions.pas"/>
+    <File Path="Ucheckgrid.pas"/>
+  </ProjectSortOrder>
+</BorlandProject>

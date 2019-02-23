@@ -1,0 +1,265 @@
+inherited FrmMainClient_NmXhdpiPh: TFrmMainClient_NmXhdpiPh
+  ClientHeight = 615
+  ClientWidth = 400
+  DesignerMasterStyle = 0
+  inherited SignTabControl: TTabControl
+    Size.Width = 400.000000000000000000
+    Size.Height = 615.000000000000000000
+    TabHeight = 49.000000000000000000
+    Sizes = (
+      400s
+      615s
+      400s
+      615s
+      400s
+      615s)
+    inherited TabItem_SignIn: TTabItem
+      ExplicitSize.cx = 54.000000000000000000
+      ExplicitSize.cy = 26.000000000000000000
+      inherited Layout4: TLayout
+        Position.X = 36.938636779785160000
+        inherited Panel1: TPanel
+          inherited Layout5: TLayout
+            inherited BtnSignIn: TButton
+              TextSettings.Font.StyleExt = {00070000000000000004000000}
+            end
+            inherited TextToSignUp: TText
+              TextSettings.Font.StyleExt = {00070000000000000004000000}
+            end
+          end
+        end
+      end
+    end
+    inherited TabItem_SignUp: TTabItem
+      ExplicitSize.cx = 59.000000000000000000
+      ExplicitSize.cy = 26.000000000000000000
+      inherited Layout7: TLayout
+        Size.Width = 400.000000000000000000
+      end
+      inherited Layout6: TLayout
+        Position.X = 71.545410156250000000
+        inherited Panel4: TPanel
+          inherited Layout8: TLayout
+            inherited Label1: TLabel
+              TextSettings.Font.StyleExt = {00070000000000000004000000}
+            end
+            inherited Label2: TLabel
+              TextSettings.Font.StyleExt = {00070000000000000004000000}
+            end
+            inherited Label3: TLabel
+              TextSettings.Font.StyleExt = {00070000000000000004000000}
+            end
+            inherited Label4: TLabel
+              TextSettings.Font.StyleExt = {00070000000000000004000000}
+            end
+          end
+        end
+      end
+    end
+    inherited TabItem_Main: TTabItem
+      ExplicitSize.cx = 47.000000000000000000
+      ExplicitSize.cy = 26.000000000000000000
+      inherited MainTabControl: TTabControl
+        Size.Width = 400.000000000000000000
+        Size.Height = 615.000000000000000000
+        TabHeight = 49.000000000000000000
+        TabIndex = 0
+        Sizes = (
+          400s
+          566s
+          400s
+          566s
+          400s
+          566s
+          400s
+          566s)
+        inherited TabItem1: TTabItem
+          IsSelected = True
+          Size.Width = 100.000000000000000000
+          Size.Height = 49.000000000000000000
+          ExplicitSize.cx = 400.000000000000000000
+          ExplicitSize.cy = 49.000000000000000000
+          inherited VertScrollBox1: TVertScrollBox
+            Size.Width = 400.000000000000000000
+            Size.Height = 566.000000000000000000
+            Viewport.Width = 400.000000000000000000
+            Viewport.Height = 566.000000000000000000
+            inherited Panel2: TPanel
+              Size.Width = 400.000000000000000000
+              inherited TextIntro: TText
+                Size.Width = 400.000000000000000000
+                TextSettings.Font.StyleExt = {00070000000000000004000000}
+              end
+            end
+            inherited Img_Sig: TImage
+              Size.Width = 400.000000000000000000
+            end
+            inherited GridPanelLayout1: TGridPanelLayout
+              Size.Width = 400.000000000000000000
+              inherited Img_1: TImage
+                Padding.Left = 3.000000000000000000
+                Padding.Top = 1.000000000000000000
+                Padding.Right = 1.000000000000000000
+                Padding.Bottom = 3.000000000000000000
+                Size.Width = 194.000000000000000000
+              end
+              inherited Img_2: TImage
+                Size.Width = 194.000000000000000000
+              end
+              inherited Img_3: TImage
+                Size.Width = 194.000000000000000000
+              end
+              inherited Img_4: TImage
+                Size.Width = 194.000000000000000000
+              end
+            end
+          end
+        end
+        inherited TabItem2: TTabItem
+          Size.Width = 100.000000000000000000
+          Size.Height = 49.000000000000000000
+          ExplicitSize.cx = 200.000000000000000000
+          ExplicitSize.cy = 49.000000000000000000
+          inherited ToolBar2: TToolBar
+            Size.Width = 400.000000000000000000
+            Size.Height = 48.000000000000000000
+            inherited Lbl2: TLabel
+              TextSettings.Font.StyleExt = {00070000000000000004000000}
+              TabOrder = 1
+            end
+          end
+          inherited ListView1: TListView
+            Size.Width = 400.000000000000000000
+            Size.Height = 518.000000000000000000
+            ItemAppearanceObjects.ItemObjects.ObjectsCollection = <
+              item
+                AppearanceObjectName = 'Text1'
+                AppearanceClassName = 'TTextObjectAppearance'
+                Appearance.Font.Size = 11.500000000000000000
+                Appearance.TextAlign = Leading
+              end
+              item
+                AppearanceObjectName = 'Text2'
+                AppearanceClassName = 'TTextObjectAppearance'
+                Appearance.Font.Size = 11.000000000000000000
+                Appearance.TextAlign = Trailing
+                Appearance.TextVertAlign = Leading
+              end>
+          end
+        end
+        inherited TabItem3: TTabItem
+          IsSelected = False
+          Size.Width = 100.000000000000000000
+          Size.Height = 49.000000000000000000
+          ExplicitSize.cx = 134.000000000000000000
+          ExplicitSize.cy = 49.000000000000000000
+          inherited ResvTabControl: TTabControl
+            Size.Width = 400.000000000000000000
+            Size.Height = 566.000000000000000000
+            TabHeight = 49.000000000000000000
+            Sizes = (
+              400s
+              566s
+              400s
+              566s)
+            inherited TabItem3_1: TTabItem
+              ExplicitSize.cx = 400.000000000000000000
+              ExplicitSize.cy = 49.000000000000000000
+              inherited Panel3: TPanel
+                Position.Y = 48.000000000000000000
+                Size.Width = 400.000000000000000000
+              end
+              inherited ToolBar5: TToolBar
+                Size.Width = 400.000000000000000000
+                Size.Height = 48.000000000000000000
+                inherited Lbl3: TLabel
+                  TextSettings.Font.StyleExt = {00070000000000000004000000}
+                end
+              end
+              inherited ListView2: TListView
+                Size.Width = 400.000000000000000000
+                Size.Height = 429.000000000000000000
+              end
+            end
+            inherited TabItem3_2: TTabItem
+              ExplicitSize.cx = 200.000000000000000000
+              ExplicitSize.cy = 49.000000000000000000
+              inherited Panel5: TPanel
+                Position.X = 56.000000000000000000
+                Size.Width = 430.000000000000000000
+              end
+              inherited Layout10: TLayout
+                Position.Y = 48.000000000000000000
+                Size.Width = 400.000000000000000000
+                inherited Panel7: TPanel
+                  Size.Width = 400.000000000000000000
+                end
+                inherited Text8: TText
+                  TextSettings.Font.StyleExt = {00070000000000000004000000}
+                end
+                inherited Text9: TText
+                  TextSettings.Font.StyleExt = {00070000000000000004000000}
+                end
+              end
+              inherited ToolBar4: TToolBar
+                Size.Width = 400.000000000000000000
+                Size.Height = 48.000000000000000000
+                inherited BtnBack3_2: TSpeedButton
+                  Size.Width = 48.000000000000000000
+                  Size.Height = 48.000000000000000000
+                end
+              end
+            end
+          end
+        end
+        inherited TabItem4: TTabItem
+          Size.Width = 100.000000000000000000
+          Size.Height = 49.000000000000000000
+          ExplicitSize.cx = 100.000000000000000000
+          ExplicitSize.cy = 49.000000000000000000
+          inherited ToolBar1: TToolBar
+            Size.Width = 400.000000000000000000
+            Size.Height = 48.000000000000000000
+            inherited Lbl4: TLabel
+              TextSettings.Font.StyleExt = {00070000000000000004000000}
+            end
+          end
+          inherited VertScrollBox2: TVertScrollBox
+            Size.Width = 400.000000000000000000
+            Size.Height = 518.000000000000000000
+            Viewport.Width = 400.000000000000000000
+            Viewport.Height = 518.000000000000000000
+            inherited Panel6: TPanel
+              Size.Width = 400.000000000000000000
+              inherited TextCpn: TText
+                TextSettings.Font.StyleExt = {00070000000000000004000000}
+              end
+              inherited TextCharge: TText
+                TextSettings.Font.StyleExt = {00070000000000000004000000}
+              end
+            end
+            inherited ListBox1: TListBox
+              Size.Width = 400.000000000000000000
+              Size.Height = 277.000000000000000000
+              Viewport.Width = 400.000000000000000000
+              Viewport.Height = 277.000000000000000000
+            end
+          end
+          inherited Text2: TText
+            Size.Width = 414.000000000000000000
+          end
+        end
+      end
+    end
+  end
+  inherited BindSource1_Biz: TBindSourceDB
+    Left = 352
+    Top = 392
+  end
+  inherited BindSourceDB1: TBindSourceDB
+    Top = 424
+  end
+  inherited ActionList1: TActionList
+    Top = 379
+  end
+end

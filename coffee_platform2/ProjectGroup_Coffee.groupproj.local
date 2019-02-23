@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899-12-30 00:00:00.000.034,C:\Users\gaish\Documents\Embarcadero\Studio\Projects\ProjectGroup1.groupproj=C:\workspace\delphi_project\coffee_platForm_git\노혁신\coffee_platform2\ProjectGroup_Coffee.groupproj</Transaction>
+  </Transactions>
+	<Default.Personality>
+		<Projects ActiveProject="C:\workspace\delphi_project\Coffee_git\coffee_platform2\ProjectServer.dproj"/>
+	</Default.Personality>
+</BorlandProject>
